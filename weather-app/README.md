@@ -3,7 +3,7 @@
 This project is a simple web application that allows users to query weather data for cities around the world. Using the OpenWeather API, data such as weather, humidity and wind speed are retrieved and presented to the user visually.
 
 ## Preview
-A preview of my Clothes E-commerce Website project is in the gif below.
+A preview of my Weather project is in the gif below.
 
 ![weatherApp](https://github.com/user-attachments/assets/a7a30a43-a469-4d15-a766-76dbc452a539)
 
