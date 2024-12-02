@@ -7,3 +7,5 @@
 3- Quiz App Project
 
 4- Random Password Generation Project
+
+5- Note App Project
