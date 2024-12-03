@@ -4,7 +4,7 @@ This project is a simple random password generator application created using HTM
 
 ## Preview
 
-A preview of my Random Password Generation project is in the gif below.
+A preview of my random password generation project is in the gif below.
 
 ![randomPassword](https://github.com/user-attachments/assets/a3a95d38-c872-4a60-b623-051d94612f0b)
 
