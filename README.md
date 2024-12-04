@@ -11,3 +11,5 @@
 5- Note App Project
 
 6- Age Calculator App Project
+
+7- QR Code Generator Project
