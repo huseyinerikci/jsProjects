@@ -17,3 +17,5 @@
 8- Quote Generator Project
 
 9- Toast Notification Project
+
+10- Calculator Project
